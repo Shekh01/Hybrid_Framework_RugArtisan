@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="wishListSectionTestCases.Checking_My_orders">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Checking_My_Order_Link_Test_Verify_All_Link_Checking_My_orders_Test"/>
+        </methods>
+      </class> <!-- wishListSectionTestCases.Checking_My_orders -->
+      <class name="wishListSectionTestCases.Check_Load_Feel_Page">
+        <methods>
+          <include name="Check_And_Test_All_Details_Check_Load_Feel_Page_Test"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- wishListSectionTestCases.Check_Load_Feel_Page -->
+      <class name="PDPSectionTestCases.Testing_the_payment">
+        <methods>
+          <include name="close"/>
+          <include name="Testing_the_payment_Test"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- PDPSectionTestCases.Testing_the_payment -->
+      <class name="checkOutPageSectionTestCases.Checkout_page_Last_Name">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Check_Last__Name_Textbox_Field_Where_We_Pass_Valid_and_Invalid_Data_Checkout_page_Last_Name_Test"/>
+        </methods>
+      </class> <!-- checkOutPageSectionTestCases.Checkout_page_Last_Name -->
+      <class name="headerSectionTestCases.Check_Plain_Link_Of_Rug_Style_and_Click_All_Shapes_of_Plain_Rugs">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Check_Plain_Link_Of_Rug_Style_and_Click_All_Shapes_of_Plain_Rugs_Test"/>
+        </methods>
+      </class> <!-- headerSectionTestCases.Check_Plain_Link_Of_Rug_Style_and_Click_All_Shapes_of_Plain_Rugs -->
+      <class name="PDPSectionTestCases.Testing_to_see_if_all_defualt_screen_placement_colors_drop_down_bar">
+        <methods>
+          <include name="Testing_to_see_if_all_defualt_screen_placement_colors_drop_down_bar_Test"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- PDPSectionTestCases.Testing_to_see_if_all_defualt_screen_placement_colors_drop_down_bar -->
+      <class name="formValidationSectionTestCases.Pass_Valid_And_Invalid_data_in_Add_Address_textbox">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Pass_Valid_And_Invalid_data_in_Add_Address_textbox_Test"/>
+        </methods>
+      </class> <!-- formValidationSectionTestCases.Pass_Valid_And_Invalid_data_in_Add_Address_textbox -->
+      <class name="footerSectionTestCases.Checking_all_activities_related_mention_below">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="check_footer_link"/>
+        </methods>
+      </class> <!-- footerSectionTestCases.Checking_all_activities_related_mention_below -->
+      <class name="footerSectionTestCases.Check_all_rug_mention_in_the_below_like_hand_tufted_hand_knotted_outdoor">
+        <methods>
+          <include name="close"/>
+          <include name="Check_all_rug_mention_in_the_below_hand_tufted_hand_knotted_outdoor"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- footerSectionTestCases.Check_all_rug_mention_in_the_below_like_hand_tufted_hand_knotted_outdoor -->
+      <class name="headerSectionTestCases.Check_Round_shape_of_all_rugs">
+        <methods>
+          <include name="close"/>
+          <include name="Check_Round_shape_of_all_rugs_Test"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- headerSectionTestCases.Check_Round_shape_of_all_rugs -->
+      <class name="headerSectionTestCases.Check_mouseover_on_the_discover_link_and_it_is_showing_all_features">
+        <methods>
+          <include name="Check_mouseover_on_the_discover_link_and_it_is_showing_all_features_Test"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- headerSectionTestCases.Check_mouseover_on_the_discover_link_and_it_is_showing_all_features -->
+      <class name="headerSectionTestCases.Check_press_link_it_is_working">
+        <methods>
+          <include name="close"/>
+          <include name="Check_press_link_it_is_working_Test"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- headerSectionTestCases.Check_press_link_it_is_working -->
+      <class name="collectionSectionTestCases.Click_on_Floral_collection_and_check_of_all_shapes_of_Floral_collection">
+        <methods>
+          <include name="Click_on_Floral_link_and_check_of_all_shapes_of_Floral_collection"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- collectionSectionTestCases.Click_on_Floral_collection_and_check_of_all_shapes_of_Floral_collection -->
+      <class name="checkOutPageSectionTestCases.Checkout_page_Search_address_by_zippostal_code">
+        <methods>
+          <include name="close"/>
+          <include name="Check_And_Verify_To_Pass_Data_In_Zip_Code_Textbox_Checkout_page_Search_address_by_zippostal_code_Test"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- checkOutPageSectionTestCases.Checkout_page_Search_address_by_zippostal_code -->
+      <class name="headerSectionTestCases.Check_Linear_Link_Of_Rug_Style_and_Click_All_Shapes_of_Linear_Rugs">
+        <methods>
+          <include name="Check_Linear_Link_Of_Rug_Style_and_Click_All_Shapes_of_Linear_Rugs_Test"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- headerSectionTestCases.Check_Linear_Link_Of_Rug_Style_and_Click_All_Shapes_of_Linear_Rugs -->
+      <class name="PDPSectionTestCases.Check_Clicking_if_all_product_detail_and_links_for_dropdown_summary_is_correct_and_working">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Check_Clicking_if_all_product_detail_and_links_for_dropdown_summary_is_correct_and_working_Test"/>
+        </methods>
+      </class> <!-- PDPSectionTestCases.Check_Clicking_if_all_product_detail_and_links_for_dropdown_summary_is_correct_and_working -->
+      <class name="footerSectionTestCases.Check_all_link_mention_below_shopping_with_us">
+        <methods>
+          <include name="Check_all_link_mention_below_shopping_with_us_module"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- footerSectionTestCases.Check_all_link_mention_below_shopping_with_us -->
+      <class name="footerSectionTestCases.Check_all_about_links">
+        <methods>
+          <include name="close"/>
+          <include name="click_on_all_about_links"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- footerSectionTestCases.Check_all_about_links -->
+      <class name="homeSectionTestCases.Ckeck_all_project_links">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Ckeck_all_project_links_Test"/>
+        </methods>
+      </class> <!-- homeSectionTestCases.Ckeck_all_project_links -->
+      <class name="myAccountInformationSectionTestCases.Change_Email_Password_Form_Validation">
+        <methods>
+          <include name="Check_to_Pass_Valid_And_All_type_of_Invalid_Data_in_the_change_email_password_textbox"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- myAccountInformationSectionTestCases.Change_Email_Password_Form_Validation -->
+      <class name="headerSectionTestCases.Click_on_Join_link_and_pass_valid_invalid_data_and_verify_its">
+        <methods>
+          <include name="Click_on_Join_link_and_pass_valid_invalid_data_and_verify_its_Test"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- headerSectionTestCases.Click_on_Join_link_and_pass_valid_invalid_data_and_verify_its -->
+      <class name="collectionSectionTestCases.Click_on_Cerulean_collection_and_check_of_all_shapes_of_Cerulean_collection">
+        <methods>
+          <include name="Click_on_Cerulean_link_and_check_of_all_shapes_of_Cerulean_collection"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- collectionSectionTestCases.Click_on_Cerulean_collection_and_check_of_all_shapes_of_Cerulean_collection -->
+      <class name="headerSectionTestCases.Check_Abstract_Link_Of_Rug_Style_and_Click_All_Shapes_of_Abstract_Rugs">
+        <methods>
+          <include name="close"/>
+          <include name="Check_Abstract_Link_Of_Rug_Style_and_Click_All_Shapes_of_Abstract_Rugs_Test"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- headerSectionTestCases.Check_Abstract_Link_Of_Rug_Style_and_Click_All_Shapes_of_Abstract_Rugs -->
+      <class name="collectionSectionTestCases.Click_on_Absract_collection_and_check_of_all_shapes_of_Abstract_collection">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Click_on_Absract_link_and_check_of_all_shapes_of_Abstract_collection"/>
+        </methods>
+      </class> <!-- collectionSectionTestCases.Click_on_Absract_collection_and_check_of_all_shapes_of_Abstract_collection -->
+      <class name="homeSectionTestCases.Checking_all_handmade_custom_rug">
+        <methods>
+          <include name="Checking_all_handmade_custom_rug_Test"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- homeSectionTestCases.Checking_all_handmade_custom_rug -->
+      <class name="shoppingCardSectionTestCases.Shopping_cart_order_summary_testing">
+        <methods>
+          <include name="Check_And_Validate_Shopping_Cart_Summary_Testing_Details_Shopping_cart_order_summary_testing_Test"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- shoppingCardSectionTestCases.Shopping_cart_order_summary_testing -->
+      <class name="collectionSectionTestCases.Click_on_Batik_play_collection_and_check_of_all_shapes_of_Batik_collection">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Click_on_Batik_play_link_and_check_of_all_shapes_of_Batik_collection"/>
+        </methods>
+      </class> <!-- collectionSectionTestCases.Click_on_Batik_play_collection_and_check_of_all_shapes_of_Batik_collection -->
+      <class name="headerSectionTestCases.Check_Diamond_shape_of_all_rugs">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Check_Diamond_shape_of_all_rugs_Test"/>
+        </methods>
+      </class> <!-- headerSectionTestCases.Check_Diamond_shape_of_all_rugs -->
+      <class name="footerSectionTestCases.Check_contact_link">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="click_on_contact"/>
+        </methods>
+      </class> <!-- footerSectionTestCases.Check_contact_link -->
+      <class name="headerSectionTestCases.Check_Repeat_Link_Of_Rug_Style_and_Click_All_Shapes_of_Repeat_Rugs">
+        <methods>
+          <include name="Check_Repeat_Link_Of_Rug_Style_and_Click_All_Shapes_of_Repeat_Rugs_Test"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- headerSectionTestCases.Check_Repeat_Link_Of_Rug_Style_and_Click_All_Shapes_of_Repeat_Rugs -->
+      <class name="formValidationSectionTestCases.Trade_Form_Validation">
+        <methods>
+          <include name="Test_And_Verify_To_Pass_All_Details_in_Trade_form_Validation"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- formValidationSectionTestCases.Trade_Form_Validation -->
+      <class name="checkOutPageSectionTestCases.Checkout_page_Company_name">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Test_Verify_whether_Company_Name_Pass_Or_Not_And_Pass_any_Name"/>
+        </methods>
+      </class> <!-- checkOutPageSectionTestCases.Checkout_page_Company_name -->
+      <class name="headerSectionTestCases.Checking_wishlist_link_it_is_showing_all_save_to_wishlist_rug">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Checking_wishlist_link_it_is_showing_all_save_to_wishlist_rug_Test"/>
+        </methods>
+      </class> <!-- headerSectionTestCases.Checking_wishlist_link_it_is_showing_all_save_to_wishlist_rug -->
+      <class name="headerSectionTestCases.Click_on_sign_in_after_passing_data">
+        <methods>
+          <include name="close"/>
+          <include name="Click_on_sign_in_after_passing_data_Test"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- headerSectionTestCases.Click_on_sign_in_after_passing_data -->
+      <class name="checkOutPageSectionTestCases.Checkout_page_Country">
+        <methods>
+          <include name="Test_And_Verify_All_Country_Showing_Or_Not_In_CheckOut_Page"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- checkOutPageSectionTestCases.Checkout_page_Country -->
+      <class name="headerSectionTestCases.Check_View_All_Design_Link_Of_Rug_Style_and_Click_All_Shapes_of_View_All_Design_Link_Rugs">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Check_View_All_Design_Link_Of_Rug_Style_and_Click_All_Shapes_of_View_All_Design_Link_Rugs_Test"/>
+        </methods>
+      </class> <!-- headerSectionTestCases.Check_View_All_Design_Link_Of_Rug_Style_and_Click_All_Shapes_of_View_All_Design_Link_Rugs -->
+      <class name="homeSectionTestCases.Check_all_trending_style_rug">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Check_all_trending_style_rug_Test"/>
+        </methods>
+      </class> <!-- homeSectionTestCases.Check_all_trending_style_rug -->
+      <class name="headerSectionTestCases.Checking_all_to_bag_link_it_is_working_properly_after_click_on_link">
+        <methods>
+          <include name="close"/>
+          <include name="Checking_all_to_bag_link_it_is_working_properly_after_click_on_link_Test"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- headerSectionTestCases.Checking_all_to_bag_link_it_is_working_properly_after_click_on_link -->
+      <class name="PDPSectionTestCases.Testing_if_shapes_are_loading_correctly">
+        <methods>
+          <include name="Testing_if_shapes_are_loading_correctly_Test"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- PDPSectionTestCases.Testing_if_shapes_are_loading_correctly -->
+      <class name="myAccountInformationSectionTestCases.Set_New_Password_Form_Validation">
+        <methods>
+          <include name="close"/>
+          <include name="Test_And_Verify_To_Pass_Valid_And_InValid_value_in_Set_New_Password_Form_Validation"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- myAccountInformationSectionTestCases.Set_New_Password_Form_Validation -->
+      <class name="PDPSectionTestCases.Testing_to_see_if_all_default_options_have_been_selected_correctly">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Testing_to_see_if_all_default_options_have_been_selected_correctly_Test"/>
+        </methods>
+      </class> <!-- PDPSectionTestCases.Testing_to_see_if_all_default_options_have_been_selected_correctly -->
+      <class name="PDPSectionTestCases.Testing_the_price_is_loading_correctly">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Testing_the_price_is_loading_correctly_Test"/>
+        </methods>
+      </class> <!-- PDPSectionTestCases.Testing_the_price_is_loading_correctly -->
+      <class name="headerSectionTestCases.Check_Textiles_Link_Of_Rug_Style_and_Click_All_Shapes_of_Textiles_Rugs">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Check_Textiles_Link_Of_Rug_Style_and_Click_All_Shapes_of_Textiles_Rugs_Test"/>
+        </methods>
+      </class> <!-- headerSectionTestCases.Check_Textiles_Link_Of_Rug_Style_and_Click_All_Shapes_of_Textiles_Rugs -->
+      <class name="headerSectionTestCases.Check_Motifs_pattern_link_and_click_all_shapes_of_Motifs_pattern_rug_showing">
+        <methods>
+          <include name="Check_Motifs_pattern_link_and_click_all_shapes_of_Motifs_pattern_rug_showing_Test"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- headerSectionTestCases.Check_Motifs_pattern_link_and_click_all_shapes_of_Motifs_pattern_rug_showing -->
+      <class name="checkOutPageSectionTestCases.Checkout_page_Blank_fields">
+        <methods>
+          <include name="close"/>
+          <include name="Test_And_Verify_All_Checkout_Page_Blank_field_pass_value_and_clear_Test"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- checkOutPageSectionTestCases.Checkout_page_Blank_fields -->
+      <class name="myAccountInformationSectionTestCases.Reset_Password_Form_Validation">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Test_And_Verify_Reset_Password_Form_textbox_And_Validate_its"/>
+        </methods>
+      </class> <!-- myAccountInformationSectionTestCases.Reset_Password_Form_Validation -->
+      <class name="collectionSectionTestCases.Click_on_Kids_collection_and_check_of_all_shapes_of_Kids_collection">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Click_on_Kids_link_and_check_of_all_shapes_of_Kids_collection"/>
+        </methods>
+      </class> <!-- collectionSectionTestCases.Click_on_Kids_collection_and_check_of_all_shapes_of_Kids_collection -->
+      <class name="headerSectionTestCases.Check_Stripe_pattern_link_and_click_all_shapes_of_Stripe_pattern_rug_showing">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Check_Stripe_pattern_link_and_click_all_shapes_of_Stripe_pattern_rug_showing_Test"/>
+        </methods>
+      </class> <!-- headerSectionTestCases.Check_Stripe_pattern_link_and_click_all_shapes_of_Stripe_pattern_rug_showing -->
+      <class name="collectionSectionTestCases.Click_on_Geometric_collection_and_check_of_all_shapes_of_Geometric_collection">
+        <methods>
+          <include name="Click_on_Geometric_link_and_check_of_all_shapes_of_Geometric_collection"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- collectionSectionTestCases.Click_on_Geometric_collection_and_check_of_all_shapes_of_Geometric_collection -->
+      <class name="headerSectionTestCases.Check_whether_it_is_click_on_how_to_customise_link_and_it_is_working">
+        <methods>
+          <include name="Check_whether_it_is_click_on_how_to_customise_link_and_it_is_working_Test"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- headerSectionTestCases.Check_whether_it_is_click_on_how_to_customise_link_and_it_is_working -->
+      <class name="PDPSectionTestCases.Testing_if_colour_suggestions_are_loading_correctly">
+        <methods>
+          <include name="Testing_if_colour_suggestions_are_loading_correctly_Test"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- PDPSectionTestCases.Testing_if_colour_suggestions_are_loading_correctly -->
+      <class name="collectionSectionTestCases.Click_on_Vintage_collection_and_check_of_all_shapes_of_Vintage_collection">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Click_on_Vintage_link_and_check_of_all_shapes_of_Vintage_collection"/>
+        </methods>
+      </class> <!-- collectionSectionTestCases.Click_on_Vintage_collection_and_check_of_all_shapes_of_Vintage_collection -->
+      <class name="PDPSectionTestCases.Testing_the_quantity">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Testing_the_quantity_Test"/>
+        </methods>
+      </class> <!-- PDPSectionTestCases.Testing_the_quantity -->
+      <class name="headerSectionTestCases.Check_Bright_pattern_link_and_click_all_shapes_of_Bright_pattern_rug_showing">
+        <methods>
+          <include name="Check_Bright_pattern_link_and_click_all_shapes_of_Bright_pattern_rug_showing_Test"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- headerSectionTestCases.Check_Bright_pattern_link_and_click_all_shapes_of_Bright_pattern_rug_showing -->
+      <class name="PDPSectionTestCases.Testing_if_sizes_are_loading_correctly">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Testing_if_sizes_are_loading_correctly_TestZ"/>
+        </methods>
+      </class> <!-- PDPSectionTestCases.Testing_if_sizes_are_loading_correctly -->
+      <class name="collectionSectionTestCases.Click_on_Modern_Art_collection_and_check_of_all_shapes_of_Modern_Art_collection">
+        <methods>
+          <include name="close"/>
+          <include name="Click_on_Modern_Art_link_and_check_of_all_shapes_of_Modern_Art_collection"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- collectionSectionTestCases.Click_on_Modern_Art_collection_and_check_of_all_shapes_of_Modern_Art_collection -->
+      <class name="headerSectionTestCases.Check_Hexagone_shape_of_all_rugs">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Check_Hexagone_shape_of_all_rugs_Test"/>
+        </methods>
+      </class> <!-- headerSectionTestCases.Check_Hexagone_shape_of_all_rugs -->
+      <class name="formValidationSectionTestCases.Set_New_Password_Form_Validation">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Test_And_Verify_To_Pass_Valid_And_InValid_value_in_Set_New_Password_Form_Validation"/>
+        </methods>
+      </class> <!-- formValidationSectionTestCases.Set_New_Password_Form_Validation -->
+      <class name="PDPSectionTestCases.Testing_the_values_of_pile_height_density_are_loading_correctly">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Testing_the_values_of_pile_height_density_are_loading_correctly_Test"/>
+        </methods>
+      </class> <!-- PDPSectionTestCases.Testing_the_values_of_pile_height_density_are_loading_correctly -->
+      <class name="formValidationSectionTestCases.Contact_Form_Validation">
+        <methods>
+          <include name="Test_and_verify_to_pass_all_Valid_and_invalid_data_in_contact_form_textbox_test"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- formValidationSectionTestCases.Contact_Form_Validation -->
+      <class name="formValidationSectionTestCases.CheckOut_Form_Form_Validation">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Check_All_textbox_which_come_into_CheckOut_Page_Checkout_Form_Validation_Test"/>
+        </methods>
+      </class> <!-- formValidationSectionTestCases.CheckOut_Form_Form_Validation -->
+      <class name="PDPSectionTestCases.Testing_if_materials_are_loading_correctly">
+        <methods>
+          <include name="Testing_if_materials_are_loading_correctly_Test"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- PDPSectionTestCases.Testing_if_materials_are_loading_correctly -->
+      <class name="checkOutPageSectionTestCases.Checkout_page_Mandatory_field">
+        <methods>
+          <include name="Check_And_Pass_Data_In_All_Mandatory_FieldCheckout_page_Mandatory_field_Test"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- checkOutPageSectionTestCases.Checkout_page_Mandatory_field -->
+      <class name="checkOutPageSectionTestCases.Checkout_page_State">
+        <methods>
+          <include name="Check_And_Verify_To_Pass_Data_In_State_Textbox_Checkout_page_State_Test"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- checkOutPageSectionTestCases.Checkout_page_State -->
+      <class name="PDPSectionTestCases.Testing_if_rug_types_are_loading_correctly">
+        <methods>
+          <include name="Testing_if_rug_types_are_loading_correctly_Test"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- PDPSectionTestCases.Testing_if_rug_types_are_loading_correctly -->
+      <class name="collectionSectionTestCases.Click_on_Brush_Stroke_collection_and_check_of_all_shapes_of_Brush_Stroke_collection">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Click_on_Brush_Stroke_link_and_check_of_all_shapes_of_Brush_Stroke_collection"/>
+        </methods>
+      </class> <!-- collectionSectionTestCases.Click_on_Brush_Stroke_collection_and_check_of_all_shapes_of_Brush_Stroke_collection -->
+      <class name="PDPSectionTestCases.Testing_color_sample_box_to_if_sample_can_be_selected_placed_basket_if_correctly">
+        <methods>
+          <include name="Testing_color_sample_box_to_if_sample_can_be_selected_placed_basket_if_correctly_Test"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- PDPSectionTestCases.Testing_color_sample_box_to_if_sample_can_be_selected_placed_basket_if_correctly -->
+      <class name="collectionSectionTestCases.Click_on_Modern_Geometric_collection_and_check_of_all_shapes_of_Modern_Geometric_collection">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Click_on_Modern_Geometric_link_and_check_of_all_shapes_of_Modern_Geometric_collection"/>
+        </methods>
+      </class> <!-- collectionSectionTestCases.Click_on_Modern_Geometric_collection_and_check_of_all_shapes_of_Modern_Geometric_collection -->
+      <class name="collectionSectionTestCases.Click_on_Flatweaves_collection_and_check_of_all_shapes_of_Flatweaves_collection">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Click_on_Flatweaves_link_and_check_of_all_shapes_of_Flatweaves_collection"/>
+        </methods>
+      </class> <!-- collectionSectionTestCases.Click_on_Flatweaves_collection_and_check_of_all_shapes_of_Flatweaves_collection -->
+      <class name="headerSectionTestCases.Check_whether_mouseover_and_properly_all_rug_pattern_showing">
+        <methods>
+          <include name="Check_whether_mouseover_and_properly_all_rug_pattern_showing_Test"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- headerSectionTestCases.Check_whether_mouseover_and_properly_all_rug_pattern_showing -->
+      <class name="formValidationSectionTestCases.Reset_Password_Form_Validation">
+        <methods>
+          <include name="Test_And_Verify_Reset_Password_Form_textbox_And_Validate_its"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- formValidationSectionTestCases.Reset_Password_Form_Validation -->
+      <class name="collectionSectionTestCases.Click_on_Animal_Prints_collection_and_check_of_all_shapes_of_Animal_Prints_collection">
+        <methods>
+          <include name="Click_on_Animal_Prints_link_and_check_of_all_shapes_of_Animal_Prints_collection"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- collectionSectionTestCases.Click_on_Animal_Prints_collection_and_check_of_all_shapes_of_Animal_Prints_collection -->
+      <class name="contactFormSectionTestCases.Contact_Form_Validation">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="Test_and_verify_to_pass_all_Valid_and_invalid_data_in_contact_form_textbox_test"/>
+        </methods>
+      </class> <!-- contactFormSectionTestCases.Contact_Form_Validation -->
+      <class name="headerSectionTestCases.Click_on_sign_in_and_verify_whether_it_is_data_can_pass_email_and_password_textbox">
+        <methods>
+          <include name="Click_on_sign_in_and_verify_whether_it_is_data_can_pass_email_and_password_textbox_Test"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- headerSectionTestCases.Click_on_sign_in_and_verify_whether_it_is_data_can_pass_email_and_password_textbox -->
+      <class name="headerSectionTestCases.Check_Offbeat_Link_Of_Rug_Style_and_Click_All_Shapes_of_Offbeat_Rugs">
+        <methods>
+          <include name="Checfbeat_Link_Of_Rug_Style_and_Click_All_Shapes_of_Offbeat_Rugs_Test"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- headerSectionTestCases.Check_Offbeat_Link_Of_Rug_Style_and_Click_All_Shapes_of_Offbeat_Rugs -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
